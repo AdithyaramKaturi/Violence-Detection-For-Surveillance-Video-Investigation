@@ -170,7 +170,7 @@ def render_login_portal():
         st.markdown("<h2 style='text-align: center; margin-bottom: 25px;'>Surveillance Video Evidence Portal</h2>", unsafe_allow_html=True)
 
         with st.form("login_form"):
-            email_id = st.text_input("Email ID", placeholder="e.g. police@gov.in")
+            email_id = st.text_input("Email ID", placeholder="Enter Email ID")
             pwd = st.text_input("Password", type="password", placeholder="Enter Password")
             login_clicked = st.form_submit_button("Login", type="primary", use_container_width=True)
 
@@ -193,8 +193,6 @@ def render_login_portal():
                     st.rerun()
                 else:
                     st.error("❌ Access Denied: Invalid Email ID or Password.")
-
-        st.caption("🔒 Authorized Official Access Only (Demo: `police@gov.in` / `police123`)")
 
 
 def main():
