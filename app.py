@@ -254,18 +254,7 @@ def main():
     st.title("🛡️ Deep Learning-Based Violence Detection for Surveillance Video Investigation")
     st.caption("Forensic Evidence Investigation Console • MobileNetV2 Deep Neural Architecture")
 
-    model_weight_path = "models/mobilenet_violence_best.pth"
-    metrics_path = "outputs/test_metrics.json"
-    acc_text = ""
-    if os.path.exists(metrics_path):
-        try:
-            with open(metrics_path, "r") as mf:
-                mdata = json.load(mf)
-                acc_text = f" ({mdata.get('accuracy', 90)}% Test Acc)"
-        except Exception:
-            pass
-
-    # Left Sidebar: Officer Credentials, Model Status & Forensic Calibration Parameters
+    # Left Sidebar: Officer Credentials & Forensic Calibration Parameters
     with st.sidebar:
         # Officer Profile Card in Sidebar
         officer_email = st.session_state.get("officer_email", "officer@police.gov.in")
@@ -282,13 +271,6 @@ def main():
             st.session_state["authenticated"] = False
             st.session_state.pop("results", None)
             st.rerun()
-
-        st.markdown("---")
-
-        if os.path.exists(model_weight_path):
-            st.success(f"🟢 **Trained Model Active**\n`mobilenet_violence_best.pth`{acc_text}")
-        else:
-            st.warning("⚠️ **ImageNet Weights**")
 
         st.markdown("---")
         st.subheader("⚙️ Investigation Parameters")
