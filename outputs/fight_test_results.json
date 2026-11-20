@@ -1,0 +1,2086 @@
+{
+  "video": "F_0_1_0_0_0.mp4",
+  "video_path": "E:\\d drive\\Violence_Detection\\UBI_FIGHTS\\videos\\fight\\F_0_1_0_0_0.mp4",
+  "duration_seconds": 144.0,
+  "fps": 30.0,
+  "threshold": 0.72,
+  "min_segment_duration": 0.5,
+  "violence_detected": true,
+  "segments_count": 7,
+  "segments": [
+    {
+      "start": 25.5,
+      "end": 26.0,
+      "peak_confidence": 60.62,
+      "peak_time_sec": 25.5,
+      "avg_confidence": 54.51,
+      "duration": 0.5
+    },
+    {
+      "start": 33.0,
+      "end": 38.0,
+      "peak_confidence": 59.67,
+      "peak_time_sec": 36.0,
+      "avg_confidence": 55.37,
+      "duration": 5.0
+    },
+    {
+      "start": 87.0,
+      "end": 87.5,
+      "peak_confidence": 58.02,
+      "peak_time_sec": 87.0,
+      "avg_confidence": 53.87,
+      "duration": 0.5
+    },
+    {
+      "start": 90.5,
+      "end": 91.0,
+      "peak_confidence": 58.38,
+      "peak_time_sec": 90.5,
+      "avg_confidence": 55.55,
+      "duration": 0.5
+    },
+    {
+      "start": 93.5,
+      "end": 94.0,
+      "peak_confidence": 60.06,
+      "peak_time_sec": 93.5,
+      "avg_confidence": 54.43,
+      "duration": 0.5
+    },
+    {
+      "start": 104.5,
+      "end": 107.5,
+      "peak_confidence": 61.65,
+      "peak_time_sec": 106.0,
+      "avg_confidence": 58.53,
+      "duration": 3.0
+    },
+    {
+      "start": 115.0,
+      "end": 143.5,
+      "peak_confidence": 69.71,
+      "peak_time_sec": 142.5,
+      "avg_confidence": 63.98,
+      "duration": 28.5
+    }
+  ],
+  "timeline": [
+    {
+      "time_sec": 0.0,
+      "raw_prob": 0.5516,
+      "smoothed_prob": 0.5516,
+      "motion_score": 10.0,
+      "is_violent": false
+    },
+    {
+      "time_sec": 0.5,
+      "raw_prob": 0.5548,
+      "smoothed_prob": 0.5532,
+      "motion_score": 1.35,
+      "is_violent": false
+    },
+    {
+      "time_sec": 1.0,
+      "raw_prob": 0.558,
+      "smoothed_prob": 0.5548,
+      "motion_score": 1.77,
+      "is_violent": false
+    },
+    {
+      "time_sec": 1.5,
+      "raw_prob": 0.5445,
+      "smoothed_prob": 0.5522,
+      "motion_score": 1.9,
+      "is_violent": false
+    },
+    {
+      "time_sec": 2.0,
+      "raw_prob": 0.5368,
+      "smoothed_prob": 0.5492,
+      "motion_score": 1.39,
+      "is_violent": false
+    },
+    {
+      "time_sec": 2.5,
+      "raw_prob": 0.5519,
+      "smoothed_prob": 0.5492,
+      "motion_score": 2.14,
+      "is_violent": false
+    },
+    {
+      "time_sec": 3.0,
+      "raw_prob": 0.5598,
+      "smoothed_prob": 0.5502,
+      "motion_score": 1.25,
+      "is_violent": false
+    },
+    {
+      "time_sec": 3.5,
+      "raw_prob": 0.5706,
+      "smoothed_prob": 0.5527,
+      "motion_score": 1.15,
+      "is_violent": false
+    },
+    {
+      "time_sec": 4.0,
+      "raw_prob": 0.5616,
+      "smoothed_prob": 0.5562,
+      "motion_score": 1.28,
+      "is_violent": false
+    },
+    {
+      "time_sec": 4.5,
+      "raw_prob": 0.5988,
+      "smoothed_prob": 0.5685,
+      "motion_score": 1.29,
+      "is_violent": false
+    },
+    {
+      "time_sec": 5.0,
+      "raw_prob": 0.5986,
+      "smoothed_prob": 0.5779,
+      "motion_score": 2.46,
+      "is_violent": false
+    },
+    {
+      "time_sec": 5.5,
+      "raw_prob": 0.5903,
+      "smoothed_prob": 0.584,
+      "motion_score": 2.55,
+      "is_violent": false
+    },
+    {
+      "time_sec": 6.0,
+      "raw_prob": 0.5862,
+      "smoothed_prob": 0.5871,
+      "motion_score": 1.78,
+      "is_violent": false
+    },
+    {
+      "time_sec": 6.5,
+      "raw_prob": 0.5704,
+      "smoothed_prob": 0.5889,
+      "motion_score": 1.63,
+      "is_violent": false
+    },
+    {
+      "time_sec": 7.0,
+      "raw_prob": 0.5901,
+      "smoothed_prob": 0.5871,
+      "motion_score": 1.61,
+      "is_violent": false
+    },
+    {
+      "time_sec": 7.5,
+      "raw_prob": 0.5836,
+      "smoothed_prob": 0.5841,
+      "motion_score": 1.88,
+      "is_violent": false
+    },
+    {
+      "time_sec": 8.0,
+      "raw_prob": 0.5714,
+      "smoothed_prob": 0.5803,
+      "motion_score": 2.52,
+      "is_violent": false
+    },
+    {
+      "time_sec": 8.5,
+      "raw_prob": 0.5487,
+      "smoothed_prob": 0.5728,
+      "motion_score": 3.38,
+      "is_violent": false
+    },
+    {
+      "time_sec": 9.0,
+      "raw_prob": 0.5689,
+      "smoothed_prob": 0.5725,
+      "motion_score": 1.8,
+      "is_violent": false
+    },
+    {
+      "time_sec": 9.5,
+      "raw_prob": 0.5604,
+      "smoothed_prob": 0.5666,
+      "motion_score": 1.64,
+      "is_violent": false
+    },
+    {
+      "time_sec": 10.0,
+      "raw_prob": 0.5902,
+      "smoothed_prob": 0.5679,
+      "motion_score": 2.98,
+      "is_violent": false
+    },
+    {
+      "time_sec": 10.5,
+      "raw_prob": 0.565,
+      "smoothed_prob": 0.5666,
+      "motion_score": 2.79,
+      "is_violent": false
+    },
+    {
+      "time_sec": 11.0,
+      "raw_prob": 0.5619,
+      "smoothed_prob": 0.5693,
+      "motion_score": 2.15,
+      "is_violent": false
+    },
+    {
+      "time_sec": 11.5,
+      "raw_prob": 0.5513,
+      "smoothed_prob": 0.5658,
+      "motion_score": 1.88,
+      "is_violent": false
+    },
+    {
+      "time_sec": 12.0,
+      "raw_prob": 0.5518,
+      "smoothed_prob": 0.564,
+      "motion_score": 1.74,
+      "is_violent": false
+    },
+    {
+      "time_sec": 12.5,
+      "raw_prob": 0.5416,
+      "smoothed_prob": 0.5543,
+      "motion_score": 1.45,
+      "is_violent": false
+    },
+    {
+      "time_sec": 13.0,
+      "raw_prob": 0.4704,
+      "smoothed_prob": 0.5354,
+      "motion_score": 43.33,
+      "is_violent": false
+    },
+    {
+      "time_sec": 13.5,
+      "raw_prob": 0.4657,
+      "smoothed_prob": 0.5162,
+      "motion_score": 2.07,
+      "is_violent": false
+    },
+    {
+      "time_sec": 14.0,
+      "raw_prob": 0.4447,
+      "smoothed_prob": 0.4948,
+      "motion_score": 1.86,
+      "is_violent": false
+    },
+    {
+      "time_sec": 14.5,
+      "raw_prob": 0.4321,
+      "smoothed_prob": 0.4709,
+      "motion_score": 2.69,
+      "is_violent": false
+    },
+    {
+      "time_sec": 15.0,
+      "raw_prob": 0.4264,
+      "smoothed_prob": 0.4478,
+      "motion_score": 1.07,
+      "is_violent": false
+    },
+    {
+      "time_sec": 15.5,
+      "raw_prob": 0.4593,
+      "smoothed_prob": 0.4456,
+      "motion_score": 2.84,
+      "is_violent": false
+    },
+    {
+      "time_sec": 16.0,
+      "raw_prob": 0.4609,
+      "smoothed_prob": 0.4447,
+      "motion_score": 2.55,
+      "is_violent": false
+    },
+    {
+      "time_sec": 16.5,
+      "raw_prob": 0.4626,
+      "smoothed_prob": 0.4482,
+      "motion_score": 1.72,
+      "is_violent": false
+    },
+    {
+      "time_sec": 17.0,
+      "raw_prob": 0.541,
+      "smoothed_prob": 0.47,
+      "motion_score": 4.95,
+      "is_violent": false
+    },
+    {
+      "time_sec": 17.5,
+      "raw_prob": 0.4971,
+      "smoothed_prob": 0.4842,
+      "motion_score": 12.04,
+      "is_violent": false
+    },
+    {
+      "time_sec": 18.0,
+      "raw_prob": 0.5743,
+      "smoothed_prob": 0.5072,
+      "motion_score": 18.15,
+      "is_violent": false
+    },
+    {
+      "time_sec": 18.5,
+      "raw_prob": 0.4793,
+      "smoothed_prob": 0.5109,
+      "motion_score": 13.35,
+      "is_violent": false
+    },
+    {
+      "time_sec": 19.0,
+      "raw_prob": 0.3751,
+      "smoothed_prob": 0.4933,
+      "motion_score": 8.91,
+      "is_violent": false
+    },
+    {
+      "time_sec": 19.5,
+      "raw_prob": 0.4825,
+      "smoothed_prob": 0.4817,
+      "motion_score": 7.05,
+      "is_violent": false
+    },
+    {
+      "time_sec": 20.0,
+      "raw_prob": 0.5013,
+      "smoothed_prob": 0.4825,
+      "motion_score": 9.61,
+      "is_violent": false
+    },
+    {
+      "time_sec": 20.5,
+      "raw_prob": 0.4591,
+      "smoothed_prob": 0.4595,
+      "motion_score": 7.0,
+      "is_violent": false
+    },
+    {
+      "time_sec": 21.0,
+      "raw_prob": 0.4746,
+      "smoothed_prob": 0.4585,
+      "motion_score": 5.39,
+      "is_violent": false
+    },
+    {
+      "time_sec": 21.5,
+      "raw_prob": 0.5017,
+      "smoothed_prob": 0.4838,
+      "motion_score": 5.64,
+      "is_violent": false
+    },
+    {
+      "time_sec": 22.0,
+      "raw_prob": 0.4646,
+      "smoothed_prob": 0.4803,
+      "motion_score": 4.67,
+      "is_violent": false
+    },
+    {
+      "time_sec": 22.5,
+      "raw_prob": 0.4756,
+      "smoothed_prob": 0.4751,
+      "motion_score": 5.12,
+      "is_violent": false
+    },
+    {
+      "time_sec": 23.0,
+      "raw_prob": 0.4738,
+      "smoothed_prob": 0.478,
+      "motion_score": 9.22,
+      "is_violent": false
+    },
+    {
+      "time_sec": 23.5,
+      "raw_prob": 0.5081,
+      "smoothed_prob": 0.4847,
+      "motion_score": 8.18,
+      "is_violent": false
+    },
+    {
+      "time_sec": 24.0,
+      "raw_prob": 0.457,
+      "smoothed_prob": 0.4758,
+      "motion_score": 11.42,
+      "is_violent": false
+    },
+    {
+      "time_sec": 24.5,
+      "raw_prob": 0.5161,
+      "smoothed_prob": 0.4861,
+      "motion_score": 10.96,
+      "is_violent": false
+    },
+    {
+      "time_sec": 25.0,
+      "raw_prob": 0.5329,
+      "smoothed_prob": 0.4976,
+      "motion_score": 12.2,
+      "is_violent": false
+    },
+    {
+      "time_sec": 25.5,
+      "raw_prob": 0.6062,
+      "smoothed_prob": 0.5241,
+      "motion_score": 10.53,
+      "is_violent": true
+    },
+    {
+      "time_sec": 26.0,
+      "raw_prob": 0.484,
+      "smoothed_prob": 0.5193,
+      "motion_score": 6.95,
+      "is_violent": false
+    },
+    {
+      "time_sec": 26.5,
+      "raw_prob": 0.5235,
+      "smoothed_prob": 0.5326,
+      "motion_score": 7.35,
+      "is_violent": false
+    },
+    {
+      "time_sec": 27.0,
+      "raw_prob": 0.5052,
+      "smoothed_prob": 0.5304,
+      "motion_score": 9.42,
+      "is_violent": false
+    },
+    {
+      "time_sec": 27.5,
+      "raw_prob": 0.5091,
+      "smoothed_prob": 0.5256,
+      "motion_score": 9.87,
+      "is_violent": false
+    },
+    {
+      "time_sec": 28.0,
+      "raw_prob": 0.4869,
+      "smoothed_prob": 0.5018,
+      "motion_score": 10.17,
+      "is_violent": false
+    },
+    {
+      "time_sec": 28.5,
+      "raw_prob": 0.4981,
+      "smoothed_prob": 0.5046,
+      "motion_score": 7.25,
+      "is_violent": false
+    },
+    {
+      "time_sec": 29.0,
+      "raw_prob": 0.5501,
+      "smoothed_prob": 0.5099,
+      "motion_score": 5.94,
+      "is_violent": false
+    },
+    {
+      "time_sec": 29.5,
+      "raw_prob": 0.4845,
+      "smoothed_prob": 0.5058,
+      "motion_score": 5.9,
+      "is_violent": false
+    },
+    {
+      "time_sec": 30.0,
+      "raw_prob": 0.5208,
+      "smoothed_prob": 0.5081,
+      "motion_score": 6.48,
+      "is_violent": false
+    },
+    {
+      "time_sec": 30.5,
+      "raw_prob": 0.5094,
+      "smoothed_prob": 0.5126,
+      "motion_score": 5.44,
+      "is_violent": false
+    },
+    {
+      "time_sec": 31.0,
+      "raw_prob": 0.5322,
+      "smoothed_prob": 0.5194,
+      "motion_score": 4.89,
+      "is_violent": false
+    },
+    {
+      "time_sec": 31.5,
+      "raw_prob": 0.4936,
+      "smoothed_prob": 0.5081,
+      "motion_score": 4.33,
+      "is_violent": false
+    },
+    {
+      "time_sec": 32.0,
+      "raw_prob": 0.5463,
+      "smoothed_prob": 0.5205,
+      "motion_score": 6.09,
+      "is_violent": false
+    },
+    {
+      "time_sec": 32.5,
+      "raw_prob": 0.5035,
+      "smoothed_prob": 0.517,
+      "motion_score": 2.92,
+      "is_violent": false
+    },
+    {
+      "time_sec": 33.0,
+      "raw_prob": 0.5813,
+      "smoothed_prob": 0.5314,
+      "motion_score": 4.16,
+      "is_violent": true
+    },
+    {
+      "time_sec": 33.5,
+      "raw_prob": 0.5558,
+      "smoothed_prob": 0.5361,
+      "motion_score": 5.39,
+      "is_violent": false
+    },
+    {
+      "time_sec": 34.0,
+      "raw_prob": 0.5861,
+      "smoothed_prob": 0.5546,
+      "motion_score": 6.15,
+      "is_violent": true
+    },
+    {
+      "time_sec": 34.5,
+      "raw_prob": 0.5913,
+      "smoothed_prob": 0.5636,
+      "motion_score": 7.84,
+      "is_violent": true
+    },
+    {
+      "time_sec": 35.0,
+      "raw_prob": 0.5109,
+      "smoothed_prob": 0.5651,
+      "motion_score": 12.29,
+      "is_violent": false
+    },
+    {
+      "time_sec": 35.5,
+      "raw_prob": 0.55,
+      "smoothed_prob": 0.5588,
+      "motion_score": 19.6,
+      "is_violent": false
+    },
+    {
+      "time_sec": 36.0,
+      "raw_prob": 0.5967,
+      "smoothed_prob": 0.567,
+      "motion_score": 23.84,
+      "is_violent": true
+    },
+    {
+      "time_sec": 36.5,
+      "raw_prob": 0.5339,
+      "smoothed_prob": 0.5566,
+      "motion_score": 24.02,
+      "is_violent": false
+    },
+    {
+      "time_sec": 37.0,
+      "raw_prob": 0.54,
+      "smoothed_prob": 0.5463,
+      "motion_score": 18.3,
+      "is_violent": false
+    },
+    {
+      "time_sec": 37.5,
+      "raw_prob": 0.5845,
+      "smoothed_prob": 0.561,
+      "motion_score": 20.52,
+      "is_violent": true
+    },
+    {
+      "time_sec": 38.0,
+      "raw_prob": 0.4599,
+      "smoothed_prob": 0.543,
+      "motion_score": 19.53,
+      "is_violent": false
+    },
+    {
+      "time_sec": 38.5,
+      "raw_prob": 0.5158,
+      "smoothed_prob": 0.5268,
+      "motion_score": 17.92,
+      "is_violent": false
+    },
+    {
+      "time_sec": 39.0,
+      "raw_prob": 0.5371,
+      "smoothed_prob": 0.5274,
+      "motion_score": 18.13,
+      "is_violent": false
+    },
+    {
+      "time_sec": 39.5,
+      "raw_prob": 0.5563,
+      "smoothed_prob": 0.5307,
+      "motion_score": 22.51,
+      "is_violent": false
+    },
+    {
+      "time_sec": 40.0,
+      "raw_prob": 0.4667,
+      "smoothed_prob": 0.5071,
+      "motion_score": 19.97,
+      "is_violent": false
+    },
+    {
+      "time_sec": 40.5,
+      "raw_prob": 0.5189,
+      "smoothed_prob": 0.5189,
+      "motion_score": 18.0,
+      "is_violent": false
+    },
+    {
+      "time_sec": 41.0,
+      "raw_prob": 0.5236,
+      "smoothed_prob": 0.5205,
+      "motion_score": 19.8,
+      "is_violent": false
+    },
+    {
+      "time_sec": 41.5,
+      "raw_prob": 0.4821,
+      "smoothed_prob": 0.5095,
+      "motion_score": 13.91,
+      "is_violent": false
+    },
+    {
+      "time_sec": 42.0,
+      "raw_prob": 0.4153,
+      "smoothed_prob": 0.4813,
+      "motion_score": 6.99,
+      "is_violent": false
+    },
+    {
+      "time_sec": 42.5,
+      "raw_prob": 0.4648,
+      "smoothed_prob": 0.4809,
+      "motion_score": 3.82,
+      "is_violent": false
+    },
+    {
+      "time_sec": 43.0,
+      "raw_prob": 0.4713,
+      "smoothed_prob": 0.4714,
+      "motion_score": 4.02,
+      "is_violent": false
+    },
+    {
+      "time_sec": 43.5,
+      "raw_prob": 0.4352,
+      "smoothed_prob": 0.4537,
+      "motion_score": 5.25,
+      "is_violent": false
+    },
+    {
+      "time_sec": 44.0,
+      "raw_prob": 0.4733,
+      "smoothed_prob": 0.452,
+      "motion_score": 5.09,
+      "is_violent": false
+    },
+    {
+      "time_sec": 44.5,
+      "raw_prob": 0.4714,
+      "smoothed_prob": 0.4632,
+      "motion_score": 8.4,
+      "is_violent": false
+    },
+    {
+      "time_sec": 45.0,
+      "raw_prob": 0.4917,
+      "smoothed_prob": 0.4686,
+      "motion_score": 13.04,
+      "is_violent": false
+    },
+    {
+      "time_sec": 45.5,
+      "raw_prob": 0.492,
+      "smoothed_prob": 0.4727,
+      "motion_score": 19.21,
+      "is_violent": false
+    },
+    {
+      "time_sec": 46.0,
+      "raw_prob": 0.4012,
+      "smoothed_prob": 0.4659,
+      "motion_score": 15.62,
+      "is_violent": false
+    },
+    {
+      "time_sec": 46.5,
+      "raw_prob": 0.4228,
+      "smoothed_prob": 0.4558,
+      "motion_score": 7.9,
+      "is_violent": false
+    },
+    {
+      "time_sec": 47.0,
+      "raw_prob": 0.4443,
+      "smoothed_prob": 0.4504,
+      "motion_score": 4.85,
+      "is_violent": false
+    },
+    {
+      "time_sec": 47.5,
+      "raw_prob": 0.4594,
+      "smoothed_prob": 0.4439,
+      "motion_score": 3.73,
+      "is_violent": false
+    },
+    {
+      "time_sec": 48.0,
+      "raw_prob": 0.437,
+      "smoothed_prob": 0.4329,
+      "motion_score": 4.61,
+      "is_violent": false
+    },
+    {
+      "time_sec": 48.5,
+      "raw_prob": 0.4829,
+      "smoothed_prob": 0.4493,
+      "motion_score": 5.28,
+      "is_violent": false
+    },
+    {
+      "time_sec": 49.0,
+      "raw_prob": 0.4527,
+      "smoothed_prob": 0.4553,
+      "motion_score": 5.29,
+      "is_violent": false
+    },
+    {
+      "time_sec": 49.5,
+      "raw_prob": 0.4882,
+      "smoothed_prob": 0.464,
+      "motion_score": 4.53,
+      "is_violent": false
+    },
+    {
+      "time_sec": 50.0,
+      "raw_prob": 0.5174,
+      "smoothed_prob": 0.4756,
+      "motion_score": 6.21,
+      "is_violent": false
+    },
+    {
+      "time_sec": 50.5,
+      "raw_prob": 0.379,
+      "smoothed_prob": 0.464,
+      "motion_score": 8.37,
+      "is_violent": false
+    },
+    {
+      "time_sec": 51.0,
+      "raw_prob": 0.4426,
+      "smoothed_prob": 0.456,
+      "motion_score": 11.93,
+      "is_violent": false
+    },
+    {
+      "time_sec": 51.5,
+      "raw_prob": 0.4205,
+      "smoothed_prob": 0.4496,
+      "motion_score": 13.58,
+      "is_violent": false
+    },
+    {
+      "time_sec": 52.0,
+      "raw_prob": 0.4327,
+      "smoothed_prob": 0.4385,
+      "motion_score": 12.56,
+      "is_violent": false
+    },
+    {
+      "time_sec": 52.5,
+      "raw_prob": 0.435,
+      "smoothed_prob": 0.422,
+      "motion_score": 11.55,
+      "is_violent": false
+    },
+    {
+      "time_sec": 53.0,
+      "raw_prob": 0.3676,
+      "smoothed_prob": 0.4197,
+      "motion_score": 10.46,
+      "is_violent": false
+    },
+    {
+      "time_sec": 53.5,
+      "raw_prob": 0.4269,
+      "smoothed_prob": 0.4165,
+      "motion_score": 14.68,
+      "is_violent": false
+    },
+    {
+      "time_sec": 54.0,
+      "raw_prob": 0.4175,
+      "smoothed_prob": 0.4159,
+      "motion_score": 19.54,
+      "is_violent": false
+    },
+    {
+      "time_sec": 54.5,
+      "raw_prob": 0.4169,
+      "smoothed_prob": 0.4128,
+      "motion_score": 17.64,
+      "is_violent": false
+    },
+    {
+      "time_sec": 55.0,
+      "raw_prob": 0.4509,
+      "smoothed_prob": 0.416,
+      "motion_score": 20.47,
+      "is_violent": false
+    },
+    {
+      "time_sec": 55.5,
+      "raw_prob": 0.356,
+      "smoothed_prob": 0.4136,
+      "motion_score": 16.13,
+      "is_violent": false
+    },
+    {
+      "time_sec": 56.0,
+      "raw_prob": 0.3631,
+      "smoothed_prob": 0.4009,
+      "motion_score": 10.71,
+      "is_violent": false
+    },
+    {
+      "time_sec": 56.5,
+      "raw_prob": 0.3779,
+      "smoothed_prob": 0.393,
+      "motion_score": 6.98,
+      "is_violent": false
+    },
+    {
+      "time_sec": 57.0,
+      "raw_prob": 0.4507,
+      "smoothed_prob": 0.3997,
+      "motion_score": 5.9,
+      "is_violent": false
+    },
+    {
+      "time_sec": 57.5,
+      "raw_prob": 0.4655,
+      "smoothed_prob": 0.4026,
+      "motion_score": 4.52,
+      "is_violent": false
+    },
+    {
+      "time_sec": 58.0,
+      "raw_prob": 0.4082,
+      "smoothed_prob": 0.4131,
+      "motion_score": 5.48,
+      "is_violent": false
+    },
+    {
+      "time_sec": 58.5,
+      "raw_prob": 0.4736,
+      "smoothed_prob": 0.4352,
+      "motion_score": 6.39,
+      "is_violent": false
+    },
+    {
+      "time_sec": 59.0,
+      "raw_prob": 0.5124,
+      "smoothed_prob": 0.4621,
+      "motion_score": 8.06,
+      "is_violent": false
+    },
+    {
+      "time_sec": 59.5,
+      "raw_prob": 0.4456,
+      "smoothed_prob": 0.461,
+      "motion_score": 7.73,
+      "is_violent": false
+    },
+    {
+      "time_sec": 60.0,
+      "raw_prob": 0.4316,
+      "smoothed_prob": 0.4543,
+      "motion_score": 7.49,
+      "is_violent": false
+    },
+    {
+      "time_sec": 60.5,
+      "raw_prob": 0.4502,
+      "smoothed_prob": 0.4627,
+      "motion_score": 5.6,
+      "is_violent": false
+    },
+    {
+      "time_sec": 61.0,
+      "raw_prob": 0.4391,
+      "smoothed_prob": 0.4558,
+      "motion_score": 2.97,
+      "is_violent": false
+    },
+    {
+      "time_sec": 61.5,
+      "raw_prob": 0.4398,
+      "smoothed_prob": 0.4413,
+      "motion_score": 4.64,
+      "is_violent": false
+    },
+    {
+      "time_sec": 62.0,
+      "raw_prob": 0.4582,
+      "smoothed_prob": 0.4438,
+      "motion_score": 9.43,
+      "is_violent": false
+    },
+    {
+      "time_sec": 62.5,
+      "raw_prob": 0.3947,
+      "smoothed_prob": 0.4364,
+      "motion_score": 11.76,
+      "is_violent": false
+    },
+    {
+      "time_sec": 63.0,
+      "raw_prob": 0.3359,
+      "smoothed_prob": 0.4135,
+      "motion_score": 11.1,
+      "is_violent": false
+    },
+    {
+      "time_sec": 63.5,
+      "raw_prob": 0.4111,
+      "smoothed_prob": 0.4079,
+      "motion_score": 9.35,
+      "is_violent": false
+    },
+    {
+      "time_sec": 64.0,
+      "raw_prob": 0.3538,
+      "smoothed_prob": 0.3907,
+      "motion_score": 10.16,
+      "is_violent": false
+    },
+    {
+      "time_sec": 64.5,
+      "raw_prob": 0.355,
+      "smoothed_prob": 0.3701,
+      "motion_score": 7.06,
+      "is_violent": false
+    },
+    {
+      "time_sec": 65.0,
+      "raw_prob": 0.4011,
+      "smoothed_prob": 0.3714,
+      "motion_score": 7.01,
+      "is_violent": false
+    },
+    {
+      "time_sec": 65.5,
+      "raw_prob": 0.4215,
+      "smoothed_prob": 0.3885,
+      "motion_score": 9.19,
+      "is_violent": false
+    },
+    {
+      "time_sec": 66.0,
+      "raw_prob": 0.4427,
+      "smoothed_prob": 0.3948,
+      "motion_score": 9.47,
+      "is_violent": false
+    },
+    {
+      "time_sec": 66.5,
+      "raw_prob": 0.4121,
+      "smoothed_prob": 0.4065,
+      "motion_score": 6.2,
+      "is_violent": false
+    },
+    {
+      "time_sec": 67.0,
+      "raw_prob": 0.379,
+      "smoothed_prob": 0.4113,
+      "motion_score": 6.05,
+      "is_violent": false
+    },
+    {
+      "time_sec": 67.5,
+      "raw_prob": 0.4347,
+      "smoothed_prob": 0.418,
+      "motion_score": 5.65,
+      "is_violent": false
+    },
+    {
+      "time_sec": 68.0,
+      "raw_prob": 0.37,
+      "smoothed_prob": 0.4077,
+      "motion_score": 8.84,
+      "is_violent": false
+    },
+    {
+      "time_sec": 68.5,
+      "raw_prob": 0.4877,
+      "smoothed_prob": 0.4167,
+      "motion_score": 11.8,
+      "is_violent": false
+    },
+    {
+      "time_sec": 69.0,
+      "raw_prob": 0.4038,
+      "smoothed_prob": 0.415,
+      "motion_score": 13.07,
+      "is_violent": false
+    },
+    {
+      "time_sec": 69.5,
+      "raw_prob": 0.4245,
+      "smoothed_prob": 0.4241,
+      "motion_score": 10.3,
+      "is_violent": false
+    },
+    {
+      "time_sec": 70.0,
+      "raw_prob": 0.413,
+      "smoothed_prob": 0.4198,
+      "motion_score": 8.0,
+      "is_violent": false
+    },
+    {
+      "time_sec": 70.5,
+      "raw_prob": 0.438,
+      "smoothed_prob": 0.4334,
+      "motion_score": 6.85,
+      "is_violent": false
+    },
+    {
+      "time_sec": 71.0,
+      "raw_prob": 0.4067,
+      "smoothed_prob": 0.4172,
+      "motion_score": 7.62,
+      "is_violent": false
+    },
+    {
+      "time_sec": 71.5,
+      "raw_prob": 0.4531,
+      "smoothed_prob": 0.4271,
+      "motion_score": 7.36,
+      "is_violent": false
+    },
+    {
+      "time_sec": 72.0,
+      "raw_prob": 0.3887,
+      "smoothed_prob": 0.4199,
+      "motion_score": 6.2,
+      "is_violent": false
+    },
+    {
+      "time_sec": 72.5,
+      "raw_prob": 0.427,
+      "smoothed_prob": 0.4227,
+      "motion_score": 5.75,
+      "is_violent": false
+    },
+    {
+      "time_sec": 73.0,
+      "raw_prob": 0.3603,
+      "smoothed_prob": 0.4072,
+      "motion_score": 6.4,
+      "is_violent": false
+    },
+    {
+      "time_sec": 73.5,
+      "raw_prob": 0.3634,
+      "smoothed_prob": 0.3985,
+      "motion_score": 6.09,
+      "is_violent": false
+    },
+    {
+      "time_sec": 74.0,
+      "raw_prob": 0.2844,
+      "smoothed_prob": 0.3648,
+      "motion_score": 6.0,
+      "is_violent": false
+    },
+    {
+      "time_sec": 74.5,
+      "raw_prob": 0.3328,
+      "smoothed_prob": 0.3536,
+      "motion_score": 7.07,
+      "is_violent": false
+    },
+    {
+      "time_sec": 75.0,
+      "raw_prob": 0.334,
+      "smoothed_prob": 0.335,
+      "motion_score": 7.03,
+      "is_violent": false
+    },
+    {
+      "time_sec": 75.5,
+      "raw_prob": 0.275,
+      "smoothed_prob": 0.3179,
+      "motion_score": 4.8,
+      "is_violent": false
+    },
+    {
+      "time_sec": 76.0,
+      "raw_prob": 0.3309,
+      "smoothed_prob": 0.3114,
+      "motion_score": 5.79,
+      "is_violent": false
+    },
+    {
+      "time_sec": 76.5,
+      "raw_prob": 0.3077,
+      "smoothed_prob": 0.3161,
+      "motion_score": 5.09,
+      "is_violent": false
+    },
+    {
+      "time_sec": 77.0,
+      "raw_prob": 0.3595,
+      "smoothed_prob": 0.3214,
+      "motion_score": 6.15,
+      "is_violent": false
+    },
+    {
+      "time_sec": 77.5,
+      "raw_prob": 0.3656,
+      "smoothed_prob": 0.3277,
+      "motion_score": 5.17,
+      "is_violent": false
+    },
+    {
+      "time_sec": 78.0,
+      "raw_prob": 0.3939,
+      "smoothed_prob": 0.3515,
+      "motion_score": 5.21,
+      "is_violent": false
+    },
+    {
+      "time_sec": 78.5,
+      "raw_prob": 0.3319,
+      "smoothed_prob": 0.3517,
+      "motion_score": 6.01,
+      "is_violent": false
+    },
+    {
+      "time_sec": 79.0,
+      "raw_prob": 0.4214,
+      "smoothed_prob": 0.3745,
+      "motion_score": 10.48,
+      "is_violent": false
+    },
+    {
+      "time_sec": 79.5,
+      "raw_prob": 0.4384,
+      "smoothed_prob": 0.3902,
+      "motion_score": 15.97,
+      "is_violent": false
+    },
+    {
+      "time_sec": 80.0,
+      "raw_prob": 0.3787,
+      "smoothed_prob": 0.3929,
+      "motion_score": 14.35,
+      "is_violent": false
+    },
+    {
+      "time_sec": 80.5,
+      "raw_prob": 0.3764,
+      "smoothed_prob": 0.3894,
+      "motion_score": 6.07,
+      "is_violent": false
+    },
+    {
+      "time_sec": 81.0,
+      "raw_prob": 0.3982,
+      "smoothed_prob": 0.4026,
+      "motion_score": 7.0,
+      "is_violent": false
+    },
+    {
+      "time_sec": 81.5,
+      "raw_prob": 0.3922,
+      "smoothed_prob": 0.3968,
+      "motion_score": 10.83,
+      "is_violent": false
+    },
+    {
+      "time_sec": 82.0,
+      "raw_prob": 0.445,
+      "smoothed_prob": 0.3981,
+      "motion_score": 13.99,
+      "is_violent": false
+    },
+    {
+      "time_sec": 82.5,
+      "raw_prob": 0.3832,
+      "smoothed_prob": 0.399,
+      "motion_score": 12.52,
+      "is_violent": false
+    },
+    {
+      "time_sec": 83.0,
+      "raw_prob": 0.5036,
+      "smoothed_prob": 0.4245,
+      "motion_score": 14.6,
+      "is_violent": false
+    },
+    {
+      "time_sec": 83.5,
+      "raw_prob": 0.4201,
+      "smoothed_prob": 0.4288,
+      "motion_score": 13.15,
+      "is_violent": false
+    },
+    {
+      "time_sec": 84.0,
+      "raw_prob": 0.4773,
+      "smoothed_prob": 0.4459,
+      "motion_score": 11.61,
+      "is_violent": false
+    },
+    {
+      "time_sec": 84.5,
+      "raw_prob": 0.4362,
+      "smoothed_prob": 0.4441,
+      "motion_score": 16.17,
+      "is_violent": false
+    },
+    {
+      "time_sec": 85.0,
+      "raw_prob": 0.4679,
+      "smoothed_prob": 0.461,
+      "motion_score": 17.04,
+      "is_violent": false
+    },
+    {
+      "time_sec": 85.5,
+      "raw_prob": 0.4287,
+      "smoothed_prob": 0.446,
+      "motion_score": 21.11,
+      "is_violent": false
+    },
+    {
+      "time_sec": 86.0,
+      "raw_prob": 0.5575,
+      "smoothed_prob": 0.4735,
+      "motion_score": 22.59,
+      "is_violent": false
+    },
+    {
+      "time_sec": 86.5,
+      "raw_prob": 0.514,
+      "smoothed_prob": 0.4809,
+      "motion_score": 20.75,
+      "is_violent": false
+    },
+    {
+      "time_sec": 87.0,
+      "raw_prob": 0.5802,
+      "smoothed_prob": 0.5097,
+      "motion_score": 24.37,
+      "is_violent": true
+    },
+    {
+      "time_sec": 87.5,
+      "raw_prob": 0.4972,
+      "smoothed_prob": 0.5155,
+      "motion_score": 11.14,
+      "is_violent": false
+    },
+    {
+      "time_sec": 88.0,
+      "raw_prob": 0.4761,
+      "smoothed_prob": 0.525,
+      "motion_score": 6.79,
+      "is_violent": false
+    },
+    {
+      "time_sec": 88.5,
+      "raw_prob": 0.3732,
+      "smoothed_prob": 0.4882,
+      "motion_score": 5.0,
+      "is_violent": false
+    },
+    {
+      "time_sec": 89.0,
+      "raw_prob": 0.4333,
+      "smoothed_prob": 0.472,
+      "motion_score": 7.1,
+      "is_violent": false
+    },
+    {
+      "time_sec": 89.5,
+      "raw_prob": 0.4122,
+      "smoothed_prob": 0.4384,
+      "motion_score": 6.82,
+      "is_violent": false
+    },
+    {
+      "time_sec": 90.0,
+      "raw_prob": 0.5699,
+      "smoothed_prob": 0.453,
+      "motion_score": 12.01,
+      "is_violent": false
+    },
+    {
+      "time_sec": 90.5,
+      "raw_prob": 0.5838,
+      "smoothed_prob": 0.4745,
+      "motion_score": 12.65,
+      "is_violent": true
+    },
+    {
+      "time_sec": 91.0,
+      "raw_prob": 0.5272,
+      "smoothed_prob": 0.5053,
+      "motion_score": 11.57,
+      "is_violent": false
+    },
+    {
+      "time_sec": 91.5,
+      "raw_prob": 0.5614,
+      "smoothed_prob": 0.5309,
+      "motion_score": 12.14,
+      "is_violent": false
+    },
+    {
+      "time_sec": 92.0,
+      "raw_prob": 0.5498,
+      "smoothed_prob": 0.5584,
+      "motion_score": 16.5,
+      "is_violent": false
+    },
+    {
+      "time_sec": 92.5,
+      "raw_prob": 0.5011,
+      "smoothed_prob": 0.5447,
+      "motion_score": 21.92,
+      "is_violent": false
+    },
+    {
+      "time_sec": 93.0,
+      "raw_prob": 0.5517,
+      "smoothed_prob": 0.5382,
+      "motion_score": 26.92,
+      "is_violent": false
+    },
+    {
+      "time_sec": 93.5,
+      "raw_prob": 0.6006,
+      "smoothed_prob": 0.5529,
+      "motion_score": 12.33,
+      "is_violent": true
+    },
+    {
+      "time_sec": 94.0,
+      "raw_prob": 0.488,
+      "smoothed_prob": 0.5382,
+      "motion_score": 11.32,
+      "is_violent": false
+    },
+    {
+      "time_sec": 94.5,
+      "raw_prob": 0.4209,
+      "smoothed_prob": 0.5125,
+      "motion_score": 11.94,
+      "is_violent": false
+    },
+    {
+      "time_sec": 95.0,
+      "raw_prob": 0.5066,
+      "smoothed_prob": 0.5136,
+      "motion_score": 19.76,
+      "is_violent": false
+    },
+    {
+      "time_sec": 95.5,
+      "raw_prob": 0.5494,
+      "smoothed_prob": 0.5131,
+      "motion_score": 23.38,
+      "is_violent": false
+    },
+    {
+      "time_sec": 96.0,
+      "raw_prob": 0.5058,
+      "smoothed_prob": 0.4941,
+      "motion_score": 15.22,
+      "is_violent": false
+    },
+    {
+      "time_sec": 96.5,
+      "raw_prob": 0.4446,
+      "smoothed_prob": 0.4855,
+      "motion_score": 13.28,
+      "is_violent": false
+    },
+    {
+      "time_sec": 97.0,
+      "raw_prob": 0.4821,
+      "smoothed_prob": 0.4977,
+      "motion_score": 12.19,
+      "is_violent": false
+    },
+    {
+      "time_sec": 97.5,
+      "raw_prob": 0.4978,
+      "smoothed_prob": 0.4959,
+      "motion_score": 8.69,
+      "is_violent": false
+    },
+    {
+      "time_sec": 98.0,
+      "raw_prob": 0.4464,
+      "smoothed_prob": 0.4753,
+      "motion_score": 10.43,
+      "is_violent": false
+    },
+    {
+      "time_sec": 98.5,
+      "raw_prob": 0.424,
+      "smoothed_prob": 0.459,
+      "motion_score": 11.9,
+      "is_violent": false
+    },
+    {
+      "time_sec": 99.0,
+      "raw_prob": 0.4242,
+      "smoothed_prob": 0.4549,
+      "motion_score": 13.41,
+      "is_violent": false
+    },
+    {
+      "time_sec": 99.5,
+      "raw_prob": 0.4173,
+      "smoothed_prob": 0.4419,
+      "motion_score": 16.89,
+      "is_violent": false
+    },
+    {
+      "time_sec": 100.0,
+      "raw_prob": 0.4169,
+      "smoothed_prob": 0.4257,
+      "motion_score": 18.79,
+      "is_violent": false
+    },
+    {
+      "time_sec": 100.5,
+      "raw_prob": 0.4832,
+      "smoothed_prob": 0.4331,
+      "motion_score": 17.21,
+      "is_violent": false
+    },
+    {
+      "time_sec": 101.0,
+      "raw_prob": 0.4639,
+      "smoothed_prob": 0.4411,
+      "motion_score": 13.31,
+      "is_violent": false
+    },
+    {
+      "time_sec": 101.5,
+      "raw_prob": 0.4418,
+      "smoothed_prob": 0.4446,
+      "motion_score": 12.33,
+      "is_violent": false
+    },
+    {
+      "time_sec": 102.0,
+      "raw_prob": 0.4431,
+      "smoothed_prob": 0.4498,
+      "motion_score": 10.18,
+      "is_violent": false
+    },
+    {
+      "time_sec": 102.5,
+      "raw_prob": 0.4163,
+      "smoothed_prob": 0.4496,
+      "motion_score": 10.38,
+      "is_violent": false
+    },
+    {
+      "time_sec": 103.0,
+      "raw_prob": 0.4482,
+      "smoothed_prob": 0.4427,
+      "motion_score": 8.34,
+      "is_violent": false
+    },
+    {
+      "time_sec": 103.5,
+      "raw_prob": 0.5092,
+      "smoothed_prob": 0.4517,
+      "motion_score": 6.27,
+      "is_violent": false
+    },
+    {
+      "time_sec": 104.0,
+      "raw_prob": 0.4185,
+      "smoothed_prob": 0.4471,
+      "motion_score": 7.06,
+      "is_violent": false
+    },
+    {
+      "time_sec": 104.5,
+      "raw_prob": 0.6108,
+      "smoothed_prob": 0.4806,
+      "motion_score": 42.19,
+      "is_violent": true
+    },
+    {
+      "time_sec": 105.0,
+      "raw_prob": 0.5639,
+      "smoothed_prob": 0.5101,
+      "motion_score": 3.72,
+      "is_violent": false
+    },
+    {
+      "time_sec": 105.5,
+      "raw_prob": 0.5624,
+      "smoothed_prob": 0.533,
+      "motion_score": 3.09,
+      "is_violent": false
+    },
+    {
+      "time_sec": 106.0,
+      "raw_prob": 0.6165,
+      "smoothed_prob": 0.5544,
+      "motion_score": 3.11,
+      "is_violent": true
+    },
+    {
+      "time_sec": 106.5,
+      "raw_prob": 0.5712,
+      "smoothed_prob": 0.585,
+      "motion_score": 3.47,
+      "is_violent": false
+    },
+    {
+      "time_sec": 107.0,
+      "raw_prob": 0.5846,
+      "smoothed_prob": 0.5797,
+      "motion_score": 4.39,
+      "is_violent": true
+    },
+    {
+      "time_sec": 107.5,
+      "raw_prob": 0.5875,
+      "smoothed_prob": 0.5845,
+      "motion_score": 2.31,
+      "is_violent": false
+    },
+    {
+      "time_sec": 108.0,
+      "raw_prob": 0.5569,
+      "smoothed_prob": 0.5834,
+      "motion_score": 2.95,
+      "is_violent": false
+    },
+    {
+      "time_sec": 108.5,
+      "raw_prob": 0.5728,
+      "smoothed_prob": 0.5746,
+      "motion_score": 2.18,
+      "is_violent": false
+    },
+    {
+      "time_sec": 109.0,
+      "raw_prob": 0.5701,
+      "smoothed_prob": 0.5744,
+      "motion_score": 2.4,
+      "is_violent": false
+    },
+    {
+      "time_sec": 109.5,
+      "raw_prob": 0.5226,
+      "smoothed_prob": 0.562,
+      "motion_score": 2.24,
+      "is_violent": false
+    },
+    {
+      "time_sec": 110.0,
+      "raw_prob": 0.5584,
+      "smoothed_prob": 0.5561,
+      "motion_score": 3.06,
+      "is_violent": false
+    },
+    {
+      "time_sec": 110.5,
+      "raw_prob": 0.544,
+      "smoothed_prob": 0.5536,
+      "motion_score": 2.69,
+      "is_violent": false
+    },
+    {
+      "time_sec": 111.0,
+      "raw_prob": 0.5419,
+      "smoothed_prob": 0.5474,
+      "motion_score": 2.43,
+      "is_violent": false
+    },
+    {
+      "time_sec": 111.5,
+      "raw_prob": 0.5438,
+      "smoothed_prob": 0.5421,
+      "motion_score": 2.6,
+      "is_violent": false
+    },
+    {
+      "time_sec": 112.0,
+      "raw_prob": 0.5064,
+      "smoothed_prob": 0.5389,
+      "motion_score": 3.08,
+      "is_violent": false
+    },
+    {
+      "time_sec": 112.5,
+      "raw_prob": 0.5652,
+      "smoothed_prob": 0.5403,
+      "motion_score": 3.41,
+      "is_violent": false
+    },
+    {
+      "time_sec": 113.0,
+      "raw_prob": 0.5388,
+      "smoothed_prob": 0.5392,
+      "motion_score": 3.33,
+      "is_violent": false
+    },
+    {
+      "time_sec": 113.5,
+      "raw_prob": 0.562,
+      "smoothed_prob": 0.5432,
+      "motion_score": 1.63,
+      "is_violent": false
+    },
+    {
+      "time_sec": 114.0,
+      "raw_prob": 0.5242,
+      "smoothed_prob": 0.5393,
+      "motion_score": 1.7,
+      "is_violent": false
+    },
+    {
+      "time_sec": 114.5,
+      "raw_prob": 0.5345,
+      "smoothed_prob": 0.5449,
+      "motion_score": 1.91,
+      "is_violent": false
+    },
+    {
+      "time_sec": 115.0,
+      "raw_prob": 0.5791,
+      "smoothed_prob": 0.5477,
+      "motion_score": 45.41,
+      "is_violent": true
+    },
+    {
+      "time_sec": 115.5,
+      "raw_prob": 0.5924,
+      "smoothed_prob": 0.5585,
+      "motion_score": 12.22,
+      "is_violent": true
+    },
+    {
+      "time_sec": 116.0,
+      "raw_prob": 0.6155,
+      "smoothed_prob": 0.5691,
+      "motion_score": 11.56,
+      "is_violent": true
+    },
+    {
+      "time_sec": 116.5,
+      "raw_prob": 0.6259,
+      "smoothed_prob": 0.5895,
+      "motion_score": 8.04,
+      "is_violent": true
+    },
+    {
+      "time_sec": 117.0,
+      "raw_prob": 0.6407,
+      "smoothed_prob": 0.6107,
+      "motion_score": 4.91,
+      "is_violent": true
+    },
+    {
+      "time_sec": 117.5,
+      "raw_prob": 0.6789,
+      "smoothed_prob": 0.6307,
+      "motion_score": 5.73,
+      "is_violent": true
+    },
+    {
+      "time_sec": 118.0,
+      "raw_prob": 0.681,
+      "smoothed_prob": 0.6484,
+      "motion_score": 4.86,
+      "is_violent": true
+    },
+    {
+      "time_sec": 118.5,
+      "raw_prob": 0.6818,
+      "smoothed_prob": 0.6616,
+      "motion_score": 5.75,
+      "is_violent": true
+    },
+    {
+      "time_sec": 119.0,
+      "raw_prob": 0.6806,
+      "smoothed_prob": 0.6726,
+      "motion_score": 7.1,
+      "is_violent": true
+    },
+    {
+      "time_sec": 119.5,
+      "raw_prob": 0.6894,
+      "smoothed_prob": 0.6823,
+      "motion_score": 6.74,
+      "is_violent": true
+    },
+    {
+      "time_sec": 120.0,
+      "raw_prob": 0.6534,
+      "smoothed_prob": 0.6772,
+      "motion_score": 6.85,
+      "is_violent": true
+    },
+    {
+      "time_sec": 120.5,
+      "raw_prob": 0.6206,
+      "smoothed_prob": 0.6652,
+      "motion_score": 7.86,
+      "is_violent": true
+    },
+    {
+      "time_sec": 121.0,
+      "raw_prob": 0.6232,
+      "smoothed_prob": 0.6534,
+      "motion_score": 7.47,
+      "is_violent": true
+    },
+    {
+      "time_sec": 121.5,
+      "raw_prob": 0.6003,
+      "smoothed_prob": 0.6374,
+      "motion_score": 6.82,
+      "is_violent": true
+    },
+    {
+      "time_sec": 122.0,
+      "raw_prob": 0.612,
+      "smoothed_prob": 0.6219,
+      "motion_score": 7.34,
+      "is_violent": true
+    },
+    {
+      "time_sec": 122.5,
+      "raw_prob": 0.5895,
+      "smoothed_prob": 0.6091,
+      "motion_score": 7.95,
+      "is_violent": true
+    },
+    {
+      "time_sec": 123.0,
+      "raw_prob": 0.6543,
+      "smoothed_prob": 0.6159,
+      "motion_score": 9.88,
+      "is_violent": true
+    },
+    {
+      "time_sec": 123.5,
+      "raw_prob": 0.6142,
+      "smoothed_prob": 0.6141,
+      "motion_score": 9.42,
+      "is_violent": true
+    },
+    {
+      "time_sec": 124.0,
+      "raw_prob": 0.6562,
+      "smoothed_prob": 0.6253,
+      "motion_score": 7.56,
+      "is_violent": true
+    },
+    {
+      "time_sec": 124.5,
+      "raw_prob": 0.6307,
+      "smoothed_prob": 0.629,
+      "motion_score": 7.72,
+      "is_violent": true
+    },
+    {
+      "time_sec": 125.0,
+      "raw_prob": 0.5855,
+      "smoothed_prob": 0.6282,
+      "motion_score": 7.48,
+      "is_violent": true
+    },
+    {
+      "time_sec": 125.5,
+      "raw_prob": 0.624,
+      "smoothed_prob": 0.6221,
+      "motion_score": 7.67,
+      "is_violent": true
+    },
+    {
+      "time_sec": 126.0,
+      "raw_prob": 0.6561,
+      "smoothed_prob": 0.6305,
+      "motion_score": 7.18,
+      "is_violent": true
+    },
+    {
+      "time_sec": 126.5,
+      "raw_prob": 0.6421,
+      "smoothed_prob": 0.6277,
+      "motion_score": 8.28,
+      "is_violent": true
+    },
+    {
+      "time_sec": 127.0,
+      "raw_prob": 0.6756,
+      "smoothed_prob": 0.6367,
+      "motion_score": 9.08,
+      "is_violent": true
+    },
+    {
+      "time_sec": 127.5,
+      "raw_prob": 0.6468,
+      "smoothed_prob": 0.6489,
+      "motion_score": 7.25,
+      "is_violent": true
+    },
+    {
+      "time_sec": 128.0,
+      "raw_prob": 0.6787,
+      "smoothed_prob": 0.6599,
+      "motion_score": 8.92,
+      "is_violent": true
+    },
+    {
+      "time_sec": 128.5,
+      "raw_prob": 0.5807,
+      "smoothed_prob": 0.6448,
+      "motion_score": 8.88,
+      "is_violent": true
+    },
+    {
+      "time_sec": 129.0,
+      "raw_prob": 0.6366,
+      "smoothed_prob": 0.6437,
+      "motion_score": 8.49,
+      "is_violent": true
+    },
+    {
+      "time_sec": 129.5,
+      "raw_prob": 0.5983,
+      "smoothed_prob": 0.6282,
+      "motion_score": 7.27,
+      "is_violent": true
+    },
+    {
+      "time_sec": 130.0,
+      "raw_prob": 0.5979,
+      "smoothed_prob": 0.6184,
+      "motion_score": 7.26,
+      "is_violent": true
+    },
+    {
+      "time_sec": 130.5,
+      "raw_prob": 0.6286,
+      "smoothed_prob": 0.6084,
+      "motion_score": 8.46,
+      "is_violent": true
+    },
+    {
+      "time_sec": 131.0,
+      "raw_prob": 0.6403,
+      "smoothed_prob": 0.6203,
+      "motion_score": 6.89,
+      "is_violent": true
+    },
+    {
+      "time_sec": 131.5,
+      "raw_prob": 0.6171,
+      "smoothed_prob": 0.6164,
+      "motion_score": 5.49,
+      "is_violent": true
+    },
+    {
+      "time_sec": 132.0,
+      "raw_prob": 0.6294,
+      "smoothed_prob": 0.6227,
+      "motion_score": 7.18,
+      "is_violent": true
+    },
+    {
+      "time_sec": 132.5,
+      "raw_prob": 0.6387,
+      "smoothed_prob": 0.6308,
+      "motion_score": 4.83,
+      "is_violent": true
+    },
+    {
+      "time_sec": 133.0,
+      "raw_prob": 0.6036,
+      "smoothed_prob": 0.6258,
+      "motion_score": 5.19,
+      "is_violent": true
+    },
+    {
+      "time_sec": 133.5,
+      "raw_prob": 0.5615,
+      "smoothed_prob": 0.6101,
+      "motion_score": 4.75,
+      "is_violent": false
+    },
+    {
+      "time_sec": 134.0,
+      "raw_prob": 0.5857,
+      "smoothed_prob": 0.6038,
+      "motion_score": 4.13,
+      "is_violent": true
+    },
+    {
+      "time_sec": 134.5,
+      "raw_prob": 0.5888,
+      "smoothed_prob": 0.5957,
+      "motion_score": 4.86,
+      "is_violent": true
+    },
+    {
+      "time_sec": 135.0,
+      "raw_prob": 0.6092,
+      "smoothed_prob": 0.5898,
+      "motion_score": 5.57,
+      "is_violent": true
+    },
+    {
+      "time_sec": 135.5,
+      "raw_prob": 0.626,
+      "smoothed_prob": 0.5942,
+      "motion_score": 6.18,
+      "is_violent": true
+    },
+    {
+      "time_sec": 136.0,
+      "raw_prob": 0.6591,
+      "smoothed_prob": 0.6138,
+      "motion_score": 7.29,
+      "is_violent": true
+    },
+    {
+      "time_sec": 136.5,
+      "raw_prob": 0.6956,
+      "smoothed_prob": 0.6357,
+      "motion_score": 6.15,
+      "is_violent": true
+    },
+    {
+      "time_sec": 137.0,
+      "raw_prob": 0.661,
+      "smoothed_prob": 0.6502,
+      "motion_score": 5.29,
+      "is_violent": true
+    },
+    {
+      "time_sec": 137.5,
+      "raw_prob": 0.6914,
+      "smoothed_prob": 0.6666,
+      "motion_score": 5.51,
+      "is_violent": true
+    },
+    {
+      "time_sec": 138.0,
+      "raw_prob": 0.6944,
+      "smoothed_prob": 0.6803,
+      "motion_score": 6.85,
+      "is_violent": true
+    },
+    {
+      "time_sec": 138.5,
+      "raw_prob": 0.6807,
+      "smoothed_prob": 0.6846,
+      "motion_score": 6.71,
+      "is_violent": true
+    },
+    {
+      "time_sec": 139.0,
+      "raw_prob": 0.6919,
+      "smoothed_prob": 0.6839,
+      "motion_score": 6.26,
+      "is_violent": true
+    },
+    {
+      "time_sec": 139.5,
+      "raw_prob": 0.6808,
+      "smoothed_prob": 0.6879,
+      "motion_score": 7.0,
+      "is_violent": true
+    },
+    {
+      "time_sec": 140.0,
+      "raw_prob": 0.6811,
+      "smoothed_prob": 0.6858,
+      "motion_score": 8.33,
+      "is_violent": true
+    },
+    {
+      "time_sec": 140.5,
+      "raw_prob": 0.6696,
+      "smoothed_prob": 0.6808,
+      "motion_score": 7.52,
+      "is_violent": true
+    },
+    {
+      "time_sec": 141.0,
+      "raw_prob": 0.6505,
+      "smoothed_prob": 0.6748,
+      "motion_score": 6.29,
+      "is_violent": true
+    },
+    {
+      "time_sec": 141.5,
+      "raw_prob": 0.644,
+      "smoothed_prob": 0.6652,
+      "motion_score": 6.04,
+      "is_violent": true
+    },
+    {
+      "time_sec": 142.0,
+      "raw_prob": 0.645,
+      "smoothed_prob": 0.658,
+      "motion_score": 8.12,
+      "is_violent": true
+    },
+    {
+      "time_sec": 142.5,
+      "raw_prob": 0.6971,
+      "smoothed_prob": 0.6612,
+      "motion_score": 10.88,
+      "is_violent": true
+    },
+    {
+      "time_sec": 143.0,
+      "raw_prob": 0.6613,
+      "smoothed_prob": 0.6596,
+      "motion_score": 10.81,
+      "is_violent": true
+    },
+    {
+      "time_sec": 143.5,
+      "raw_prob": 0.6357,
+      "smoothed_prob": 0.6566,
+      "motion_score": 11.41,
+      "is_violent": true
+    }
+  ]
+}

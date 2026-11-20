@@ -1,0 +1,30 @@
+# Large datasets & raw surveillance videos
+UBI_FIGHTS/
+data/dataset/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Generated runtime artifacts & debug files
+outputs/evidence_frames/
+outputs/reports/
+outputs/debug_*.jpg
+outputs/n103_*.jpg
+
+# Local notes & sensitive files
+vd info/
+.env
+
+# Unused baseline weights (keep mobilenet_violence_best.pth tracked)
+models/mobilenet_violence_original_baseline.pth
+
+# Python caches & OS files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.DS_Store
+Thumbs.db

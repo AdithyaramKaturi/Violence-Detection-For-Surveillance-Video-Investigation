@@ -1,0 +1,29 @@
+{
+    "model_architecture": "MobileNetV2 (18 Inverted Residuals + Binary Classifier)",
+    "optimal_threshold": 0.5,
+    "best_val_metrics": {
+        "val_accuracy": 73.43,
+        "val_f1": 0.7837,
+        "val_precision": 66.08,
+        "val_recall": 96.29,
+        "operating_threshold": 0.32,
+        "epoch": 5
+    },
+    "test_metrics": {
+        "test_accuracy": 86.43,
+        "test_precision": 85.92,
+        "test_recall": 87.14,
+        "test_f1": 0.8652,
+        "test_roc_auc": 0.9045,
+        "test_specificity": 85.71,
+        "operating_threshold": 0.5
+    },
+    "class_mapping": {
+        "non_violent": 0,
+        "violent": 1
+    },
+    "pos_weight": 1.0,
+    "training_samples": 4332,
+    "validation_samples": 700,
+    "timestamp": "2026-09-22 19:16:35"
+}

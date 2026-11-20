@@ -1,0 +1,124 @@
+{
+    "accuracy": 86.43,
+    "precision": 85.92,
+    "recall": 87.14,
+    "specificity": 85.71,
+    "false_positive_rate": 14.29,
+    "f1_score": 0.8652,
+    "roc_auc": 0.9045,
+    "confusion_matrix": {
+        "TN": 300,
+        "FP": 50,
+        "FN": 45,
+        "TP": 305
+    },
+    "total_test_samples": 700,
+    "threshold_used": 0.5,
+    "improved_model_standard_05": {
+        "accuracy": 86.43,
+        "precision": 85.92,
+        "recall": 87.14,
+        "specificity": 85.71,
+        "false_positive_rate": 14.29,
+        "f1_score": 0.8652,
+        "roc_auc": 0.9045,
+        "threshold_used": 0.5,
+        "confusion_matrix": {
+            "TN": 300,
+            "FP": 50,
+            "FN": 45,
+            "TP": 305
+        },
+        "cm_raw": [
+            [
+                300,
+                50
+            ],
+            [
+                45,
+                305
+            ]
+        ],
+        "total_test_samples": 700
+    },
+    "improved_model_optimal_threshold": {
+        "accuracy": 84.29,
+        "precision": 77.91,
+        "recall": 95.71,
+        "specificity": 72.86,
+        "false_positive_rate": 27.14,
+        "f1_score": 0.859,
+        "roc_auc": 0.9045,
+        "threshold_used": 0.32,
+        "confusion_matrix": {
+            "TN": 255,
+            "FP": 95,
+            "FN": 15,
+            "TP": 335
+        },
+        "cm_raw": [
+            [
+                255,
+                95
+            ],
+            [
+                15,
+                335
+            ]
+        ],
+        "total_test_samples": 700
+    },
+    "original_baseline": {
+        "accuracy": 74.71,
+        "precision": 74.23,
+        "recall": 75.71,
+        "specificity": 73.71,
+        "false_positive_rate": 26.29,
+        "f1_score": 0.7496,
+        "roc_auc": 0.8364,
+        "threshold_used": 0.5,
+        "confusion_matrix": {
+            "TN": 258,
+            "FP": 92,
+            "FN": 85,
+            "TP": 265
+        },
+        "cm_raw": [
+            [
+                258,
+                92
+            ],
+            [
+                85,
+                265
+            ]
+        ],
+        "total_test_samples": 700
+    },
+    "comparison": {
+        "accuracy": {
+            "original": 74.71,
+            "improved": 86.43
+        },
+        "precision": {
+            "original": 74.23,
+            "improved": 85.92
+        },
+        "recall": {
+            "original": 75.71,
+            "improved": 87.14
+        },
+        "f1_score": {
+            "original": 0.7496,
+            "improved": 0.8652
+        },
+        "false_positives": {
+            "original": 92,
+            "improved": 50
+        },
+        "false_negatives": {
+            "original": 85,
+            "improved": 45
+        }
+    }
+}
